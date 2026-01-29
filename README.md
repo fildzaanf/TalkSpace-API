@@ -61,7 +61,7 @@ By integrating real-time communication, scalable services, and AI-powered assist
 * WebSocket-Based Communication
 
 ## 📚 Documentation
-* [Manual Book](https://www.linkedin.com/in/fildzaanf/overlay/Project/171912786/treasury?profileId=ACoAACUWZU0BVkHMbX1M4LCrukocRWtG4D9vXHw)
+* [TalkSpace Manual Book](https://www.linkedin.com/in/fildzaanf/overlay/Project/171912786/treasury?profileId=ACoAACUWZU0BVkHMbX1M4LCrukocRWtG4D9vXHw)
 
 ## 📡 API Endpoints
 
